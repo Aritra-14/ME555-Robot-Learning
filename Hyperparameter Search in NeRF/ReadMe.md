@@ -21,6 +21,8 @@ The visualizations can be observed in Wandb MLOps platfrom. We used the free ver
 The visualization is made public: https://wandb.ai/sweep/nerf/sweeps/tc7nxvwq?workspace=user-aray14 
 
 # Step 3: 
-1. Hyperparameter Search is done over: learning rates, the embedding size, number of layers, number of neurons, and activation functions. 
+1. Hyperparameter Search is done over: 
+
+  a. learning rates, the embedding size, number of layers, number of neurons, and activation functions. 
 
 2. We are able to monitor several system parameters like: GPU power usage (in W), GPU power usage percent, GPU Memory allocated percent, GPU time spent accessing memoy percent, GPU temperature (in C), GPU utilization percent, network traffic (in bytes), disk utilization percent, process CPU threads used, process memory availability (non-swap), process memory in use (non-swap) percent, and process memory in use (non-swap) (in MB).
