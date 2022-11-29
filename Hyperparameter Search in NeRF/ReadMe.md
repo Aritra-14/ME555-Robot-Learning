@@ -22,6 +22,22 @@ The visualization is made public: https://wandb.ai/sweep/nerf/sweeps/tc7nxvwq?wo
 
 # Step 3: 
 - Hyperparameter Search is done over: 
-  - learning rates, the embedding size, number of layers, number of neurons, and activation functions. 
+  - learning rates 
+  - the embedding size
+  - number of layers
+  - number of neurons
+  - activation functions 
 
-2. We are able to monitor several system parameters like: GPU power usage (in W), GPU power usage percent, GPU Memory allocated percent, GPU time spent accessing memoy percent, GPU temperature (in C), GPU utilization percent, network traffic (in bytes), disk utilization percent, process CPU threads used, process memory availability (non-swap), process memory in use (non-swap) percent, and process memory in use (non-swap) (in MB).
+- We are able to monitor several system parameters like: 
+  - GPU power usage (in W)
+  - GPU power usage percent
+  - GPU Memory allocated percent
+  - GPU time spent accessing memoy percent
+  - GPU temperature (in C)
+  - GPU utilization percent
+  - Network traffic (in bytes)
+  - Disk utilization percent
+  - Process CPU threads used
+  - Process memory availability (non-swap)
+  - Process memory in use (non-swap) percent
+  - Process memory in use (non-swap) (in MB)
