@@ -1,8 +1,5 @@
-# Step 1: 
-Hyperparameter Search 
+# Hyperparameter Search 
 
-# Step 2: 
-Next Frame in Sequence Prediction 
+# Next Frame in Sequence Prediction 
 
-# Step 3: 
-VideoHash
+# VideoHash
