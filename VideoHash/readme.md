@@ -1,4 +1,4 @@
-### Implementation Details: 
+# Implementation Details: 
 
 # Step 1: 
 Import the VideoHash_Compare_Videos.ipynb file to Colab. 
