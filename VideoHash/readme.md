@@ -17,4 +17,4 @@ Import the videos to your Colab
 Run all the blocks
 
 # Step 5: 
-Results are visualized [here](VideoHash/VideoHash.png)
+Results are visualized [here](https://github.com/Aritra-14/ME555-Robot-Learning/blob/main/VideoHash/VideoHash.png)
