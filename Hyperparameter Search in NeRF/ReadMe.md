@@ -44,4 +44,5 @@ The visualization is made public: https://wandb.ai/sweep/nerf/sweeps/tc7nxvwq?wo
  
  # Step 4: 
  Visualizations for hyperparameter search for 10 random runs are given here: https://github.com/Aritra-14/ME555-Robot-Learning/blob/main/Hyperparameter%20Search%20in%20NeRF/Visualization%20of%20Hyperparameter%20Search%20on%20Wandb.png
- and, visualizations of their corresponding system metrics: https://github.com/Aritra-14/ME555-Robot-Learning/blob/main/Hyperparameter%20Search%20in%20NeRF/Visualization%20of%20Hyperparameter%20Search%20on%20Wandb_System%20Metrics.png
+
+and, visualizations of their corresponding system metrics: https://github.com/Aritra-14/ME555-Robot-Learning/blob/main/Hyperparameter%20Search%20in%20NeRF/Visualization%20of%20Hyperparameter%20Search%20on%20Wandb_System%20Metrics.png
