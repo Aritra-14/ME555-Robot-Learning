@@ -1,4 +1,4 @@
-#Tiny NeRF: 
+# Tiny NeRF: 
 This is a simplied version of the method presented in NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis wherein we refrain from hierarchical sampling and ignore 5D input including view directions. 
 
 Download Tiny_NeRF.ipynb and import to Colab to run. 
